@@ -1,0 +1,5 @@
+{
+  "name": "Professeur de dessin",
+  "description": "Upload an image and get a pencil-drawn version of it. Choose between different styles (simple, anatomical, detailed) and receive AI-powered analysis with general guidelines and specific tips on how to draw the subject.",
+  "requestFramePermissions": []
+}
